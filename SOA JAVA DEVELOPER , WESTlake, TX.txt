@@ -1,0 +1,36 @@
+Job: Senior SOA (Java/J2EE) Developer
+Location: Westlake, TX 
+Duration: 6+ months Contract
+
+Job Description:
+
+Primary Responsibilities: 
+•	The business unit's Technology Team requires a Service Oriented Architecture (SOA) Developer with the equivalent of 8-12 years of proven experience in software design, development and platform architecture. The Technology Group is responsible for delivering top quality scalable systems solutions for the Asset Management business functions. 
+•	The Technology Platform consists of mainframe and distributed architecture including multiple interfaces both internal and external to the pricing, tax and data exchange platforms. 
+•	Event driven processing is needed to modernize the architecture as well as provide a consistent solution to data transport and application interfaces. 
+•	This position requires a candidate to possess strong systems engineering skills, a strong development background (primarily in PL/SQL and Java) to build a services layer (ESB - Mule/Camel knowledge preferred) solution. The job includes the need to produce architecture patterns for development groups, a strong understanding of multi-tier product configuration and deployments (data virtualization and data access methods); skills to socialize solutions to peers; and the ability to integrate disparate components and units of work in the total technical solution. The SOA developer will contribute to the end to end design and development activities to support the architecture and infrastructure for the Data Access Layer. 
+
+Responsibilities: 
+•	Provide technical leadership for enterprise solutions by building specified technical components
+•	Determines and develops approaches to solutions
+•	"Hands-on " development of specific technical architecture components
+•	Create, maintain and socialize service oriented specifications and solutions
+•	Execute on strategic architecture, design and development consistent with approved enterprise architecture concepts, principles and data strategy.
+•	Hands on experience in object oriented design and development for services solutions (ESB, web services, business process modeling) in the following technical areas:
+•	Programming and Frameworks - Java / JEE and JavaScript / JSP, Spring Frameworks
+•	Enterprise Service Bus – Mule, Camel, TIBCO, customized ESB, etc.
+•	Architectures and Protocols - SOA, XML, SOAP, FTP, SFTP
+•	Security - PKI, Digital Certificates and Secure Transmissions
+•	Applied experience and familiarity with the following is a desired:
+•	Frameworks - AJAX and Java Security Frameworks
+•	Web Servers - Tomcat and JEE Application Servers
+•	Database Engineering - PL/SQL Development and Stored Procedures
+•	Operating Systems and Environments – UNIX
+•	Scripting - Shell or Perl
+•	Application Architecture and Design - Enterprise Integration Patterns; Object Oriented Programming; Aspect Oriented Programming; Business Process Management; Java Design Patterns
+•	Excellent oral and written communication skills, including technical writing and the ability to clearly receive and convey information to a broad array of technical an non-technical people
+•	Expert understanding of the software development process including analysis, design, coding, system and user testing, problem resolution and planning 
+•	Deep understanding in User Interface design in web-based technologies
+•	Deep understanding of distributed systems transaction processing 
+•	Bachelor's Degree in Information Systems or Computer Science; MS is preferred
+•	Understanding of Financial Services and Asset Management Industry is a plus
